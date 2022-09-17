@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Solitarie Program.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  fiboSolitaire.cpp
+C:\Users\kenry\OneDrive - CSULB\2021 - 2022\Spring 2022\CECS 282\Fibonacci Solitaire\Fibonacci Solitaire\fiboSolitaire.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Fibonacci Solitaire.vcxproj -> C:\Users\kenry\OneDrive - CSULB\2021 - 2022\Spring 2022\CECS 282\Fibonacci Solitaire\x64\Debug\Fibonacci Solitaire.exe
